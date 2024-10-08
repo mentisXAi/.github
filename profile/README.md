@@ -1,5 +1,5 @@
 ![mentis-logo-smaller](https://github.com/user-attachments/assets/86c3c1de-fefc-4f59-ac23-a9c7d0420620)
-<br><brs
+<br><br>
 
 # mentis.X ai: Transforming Context into Action
 
